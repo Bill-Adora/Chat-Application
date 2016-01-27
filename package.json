@@ -1,0 +1,13 @@
+{
+  "name": "WeChat",
+  "version": "0.0.1",
+  "description": "A chat application with socket.io",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bill-Adora/Chat-Application.git"
+  }
+}
